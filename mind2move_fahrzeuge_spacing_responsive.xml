@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>mind2move Fahrzeugangebote</title>
+  <link>https://mind2move.de</link>
+  <description>Unsere aktuellen Fahrzeugangebote – jetzt reduziert oder neu verfügbar!</description>
+
+  <item>
+    <title>Aktuelle Fahrzeugangebote - Allgemein</title>
+    <link>https://docs.google.com/spreadsheets/d/1D-2HJ3rjXBQolKpDs7kw6KkZPA3JEa3m/edit?usp=sharing&amp;ouid=103654291861894630124&amp;rtpof=true&amp;sd=true</link>
+    <description><![CDATA[
+      
+<style>
+@media only screen and (max-width: 600px) {
+  .rss-column {
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    padding-bottom: 20px !important;
+  }
+}
+</style>
+<table width="100%" cellpadding="0" cellspacing="0">
+        <tr>
+          <td class="rss-column" width="33%" valign="top" style="padding: 0 10px;">
+            <span style="color: red; font-weight: bold;">Jetzt reduziert!</span><br>
+            <img src="https://raw.githubusercontent.com/cdmind2move1/rss-feed-ac2/main/tesla3.jpg" width="100%"><br>
+            <strong>Tesla Model 3 RWD</strong><br>
+            <strong>EZ:</strong> 20.04.2022<br>
+            <strong>KM:</strong> 32.990<br>
+            <strong>Kraftstoff:</strong> Elektro<br>
+            <strong>Leistung:</strong> 239 kW (326 PS)<br><br>
+            <strong>Bisher:</strong> <span style="text-decoration:line-through;">34.300 € (netto)</span><br>
+            <strong><span style="color:red;">Jetzt: 32.990 € (netto)</span></strong><br><br>
+            <a href="https://inspection.autodataexperts.de/inserat/16748?signature=a9bcaf2f454728ddffa5e40af599d3d5775171663baec0c338ab41ae9bfec64a">Zum Fahrzeug</a>
+          </td>
+          <td class="rss-column" width="33%" valign="top" style="padding: 0 10px;">
+            <span style="color: blue; font-weight: bold;">NEU auf Lager!</span><br>
+            <img src="https://raw.githubusercontent.com/cdmind2move1/rss-feed-ac2/main/mercedes2.jpg" width="100%"><br>
+            <strong>Mercedes-Benz GLC 300</strong><br>
+            <strong>EZ:</strong> 30.11.2023<br>
+            <strong>KM:</strong> 26.104<br>
+            <strong>Antrieb:</strong> Plug-in Hybrid (Diesel)<br>
+            <strong>Leistung:</strong> 145 kW (198 PS)<br><br>
+            <strong>Preis:</strong> <strong>48.500 € (netto)</strong><br><br>
+            <a href="https://inspection.autodataexperts.de/inserat/16844?signature=5107a719ec0851fd13d98bb429aafb2e0d4acb00e1c33a410b5d21e14002c5a3">Zum Fahrzeug</a>
+          </td>
+          <td class="rss-column" width="33%" valign="top" style="padding: 0 10px;">
+            <span style="color: red; font-weight: bold;">Jetzt reduziert!</span><br>
+            <img src="https://raw.githubusercontent.com/cdmind2move1/rss-feed-ac2/main/audi2.JPG" width="100%"><br>
+            <strong>Audi Q8 Sportback e-tron</strong><br>
+            <strong>EZ:</strong> 23.11.2023<br>
+            <strong>KM:</strong> 8.129<br>
+            <strong>Kraftstoff:</strong> Elektro<br>
+            <strong>Leistung:</strong> 300 kW (409 PS)<br><br>
+            <strong>Bisher:</strong> <span style="text-decoration:line-through;">51.300 € (netto)</span><br>
+            <strong><span style="color:red;">Jetzt: 49.500 € (netto)</span></strong><br><br>
+            <a href="https://inspection.autodataexperts.de/inserat/16776?signature=3f85b170cb369b2989ff4c20c110f7b8242a686557a11424dee2a6fa2a2640dc">Zum Fahrzeug</a>
+          </td>
+        </tr>
+      </table>
+    ]]></description>
+    <pubDate>Tue, 09 Jul 2025 12:00:00 +0000</pubDate>
+  </item>
+
+</channel>
+</rss>
